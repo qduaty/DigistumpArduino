@@ -1,6 +1,8 @@
 DigistumpArduino
 ================
 
+[qduaty: This fork is to enable IRLremote library (https://github.com/NicoHood/IRLremote) on Digispark non-USB.]
+
 Files to add Digistump support (Digispark, Pro, DigiX) to Arduino 1.6.X (1.6.4+)
 
 **These files are designed for install via the Arduino Boards Manager:** 
